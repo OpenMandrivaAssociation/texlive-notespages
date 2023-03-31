@@ -1,6 +1,6 @@
 Name:		texlive-notespages
 Version:	41906
-Release:	1
+Release:	2
 Summary:	Filling documents with notes pages and notes areas
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/notespages
