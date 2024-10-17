@@ -3,7 +3,7 @@ Version:	41906
 Release:	2
 Summary:	Filling documents with notes pages and notes areas
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/notespages
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/notespages
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/notespages.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/notespages.doc.r%{version}.tar.xz
